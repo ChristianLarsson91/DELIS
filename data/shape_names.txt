@@ -1,0 +1,4 @@
+cyklist
+car
+pedestrian
+misc
